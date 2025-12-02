@@ -1,5 +1,5 @@
 # JavaScript/TypeScript tools
-Small reusable JavaScript/TypeScript utility library
+Reusable utils for JavaScript/TypeScript.
 
 You can find utils for [here](/utils).
 
